@@ -13,9 +13,6 @@ Hello there! 👋 I'm Muhammad Suleman, a passionate Mern Stack developer with a
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
 
-  <a href="https://www.upwork.com/freelancers/~0192fb1a580ff83a27">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
-</a>
 <a href="mailto:sulemanroy858755@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
