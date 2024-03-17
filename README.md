@@ -71,7 +71,6 @@ Currently, I'm a MERN stack developer at Sylarks It Solutions. This role has all
 <br><br>
 Open Source Contributor from <b>Pakistan<b> 💚
     <br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=MJunaid648.MJunaid648)
 <br>
 
 
