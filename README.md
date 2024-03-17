@@ -65,10 +65,10 @@ Currently, I'm a MERN stack developer at Sylarks It Solutions. This role has all
 ## <summary>📝 My GitHub Stats</summary>
 <br>
 
-![Suleman's github stats](https://github-readme-stats.vercel.app/api?username=muhammadsulemanroy
-&theme=gotham&show_icons=true&include_all_commits=true&)
+
 <br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJunaid648&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsulemanroy
+&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
 <br><br>
 Open Source Contributor from <b>Pakistan<b> 💚
     <br><br>
