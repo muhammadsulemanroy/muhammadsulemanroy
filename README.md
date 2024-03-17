@@ -65,7 +65,7 @@ Currently, I'm a MERN stack developer at Sylarks It Solutions. This role has all
 ## <summary>📝 My GitHub Stats</summary>
 <br>
 
-![Junaid's github stats](https://github-readme-stats.vercel.app/api?username=MJunaid648&theme=gotham&show_icons=true&include_all_commits=true&)
+![Suleman's github stats](https://github-readme-stats.vercel.app/api?username=MJunaid648&theme=gotham&show_icons=true&include_all_commits=true&)
 <br>
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJunaid648&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
 <br><br>
