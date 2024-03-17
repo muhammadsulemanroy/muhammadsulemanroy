@@ -1,4 +1,4 @@
-# Muhammad Junaid - Mern Stack Developer
+# Muhammad Suleman - Mern Stack Developer
 
 Hello there! 👋 I'm Muhammad Suleman, a passionate Mern Stack developer with a knack for turning ideas into captivating digital experiences. I'm a Computer Science graduate from Virtual University of Pakistan, and I'm thrilled to share my journey and skills with you.
 ---
