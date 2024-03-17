@@ -1,30 +1,30 @@
-# Muhammad Junaid - Frontend Developer
+# Muhammad Junaid - Mern Stack Developer
 
-Hello there! 👋 I'm Muhammad Junaid, a passionate front-end developer with a knack for turning ideas into captivating digital experiences. I'm a Computer Science graduate from Comsats University Islamabad, Attock campus, and I'm thrilled to share my journey and skills with you.
+Hello there! 👋 I'm Muhammad Suleman, a passionate Mern Stack developer with a knack for turning ideas into captivating digital experiences. I'm a Computer Science graduate from Virtual University of Pakistan, and I'm thrilled to share my journey and skills with you.
 ---
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges"align="center">
-  <a href="https://api.whatsapp.com/send?phone=923135476918">
+  <a href="https://api.whatsapp.com/send?phone=923185867728">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
-<a href="https://www.linkedin.com/in/muhammad-junaid-350b79195/">
+<a href="https://www.linkedin.com/in/muhammad-suleman-429031248/">
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
 
   <a href="https://www.upwork.com/freelancers/~0192fb1a580ff83a27">
     <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
 </a>
-<a href="mailto:648mjunaid@gmail.com">
+<a href="sulemanroy858755@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
 </div>
 
 ## About Me
 
-I hold a degree in Computer Science and bring 1 year of experience to the frontend development field. My journey started with a curiosity-driven journey into coding, and it has led me to where I am today. My dedication to honing my skills and crafting exceptional user interfaces has guided my career.
-Check my portfolio [here](https://mjunaid-portfolio.netlify.app/)
+I hold a degree in Computer Science and bring More Than 1 year of experience to the Mern Stack development field. My journey started with a curiosity-driven journey into coding, and it has led me to where I am today. My dedication to honing my skills and crafting exceptional user interfaces has guided my career.
+
 
 ## My Skills
 
@@ -32,13 +32,17 @@ I specialize in:
 
 - HTML, CSS, and JavaScript for building engaging web interfaces.
 - DOM manipulation and creating interactive user experiences.
-- Utilizing the power of Tailwind CSS and Chakra UI for efficient styling.
+- Utilizing the power of Tailwind CSS and Material UI for efficient styling.
 - Developing dynamic and responsive web applications using React.js.
 - State management to ensure seamless user interactions.
 - Integrating APIs for enhanced functionality and data display.
 - Node.js and Express.js for server-side programming.
 - Crafting RESTful APIs that power applications.
 - Collaborating with Git for version control and team-based development.
+- Crafting a dynamic MongoDB aggregation pipeline for precise data insights
+- Leveraging Next.js for server-side rendering, ensuring SEO optimization
+- Implemented Strong Security Features such as Jwt Tokens and also worked on Real time Updates Features
+- Implemented robust hashing and encryption techniques for secure password storage.
 
 <br>
    <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
@@ -59,18 +63,6 @@ My learning journey began at SkipQ organization, where I immersed myself in a bo
 
 Currently, I'm a junior MERN stack developer at Adroittech, a remote-working company headquartered in Germany. This role has allowed me to continue learning and applying my skills on an international stage.
 
-## Projects
-Here are some of my deployed projects that showcase my skills and competency in front-end development.
-- [Foodie- A food Recipe App](https://foodie648.netlify.app/)
-- [Buzz Bazaar- React.js e-commerce store app](https://buzz-bazaar.netlify.app)
-- [React Movie App](https://redux-movie-app-by-junaid.netlify.app/)
-- [Adroittech website](https://mjunaid648.github.io/adroittech-homepage/index.html)
-- [Nixxsol landing page](https://nixxsol.netlify.app/)
-- [Recipe app Landing page](https://juni-recipes.netlify.app/)
-- [Food order landing page](https://junaid-food-order-app.netlify.app/)
-- [Expense tracker - App](https://expense-tracker648.netlify.app/)
-- [Notes taking - App](https://mj-notes.netlify.app/)
-- [Todo - App](https://junaids-todo-list.netlify.app/)
 
 
 ## <summary>📝 My GitHub Stats</summary>
@@ -87,6 +79,6 @@ Open Source Contributor from <b>Pakistan<b> 💚
 
 ## Get in Touch
 
-I'm always excited to connect with fellow developers and industry enthusiasts. Feel free to reach out to me for collaborations, discussions, or just to say hello. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammad-junaid-350b79195/)
+I'm always excited to connect with fellow developers and industry enthusiasts. Feel free to reach out to me for collaborations, discussions, or just to say hello. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammad-suleman-429031248/)
 
 Let's create incredible web experiences together!
