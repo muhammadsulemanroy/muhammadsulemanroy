@@ -59,9 +59,9 @@ I specialize in:
 
 ## My Journey
 
-My learning journey began at SkipQ organization, where I immersed myself in a boot camp. After 5 months of dedication, I gained foundational skills in MERN stack development. Following my progress, I embarked on an internship at Cyberevangelists, a tech company based in Lahore, Pakistan. My time there further honed my skills and introduced me to the practical world of MERN stack development.
+My learning journey began at Skylarks It Solutions organization, where I immersed myself. After More Than 1 Year of dedication, I gained foundational skills in MERN stack development. My time there further honed my skills and introduced me to the practical world of MERN stack development.
 
-Currently, I'm a junior MERN stack developer at Adroittech, a remote-working company headquartered in Germany. This role has allowed me to continue learning and applying my skills on an international stage.
+Currently, I'm a MERN stack developer at Sylarks It Solutions. This role has allowed me to continue learning and applying my skills.
 
 
 
