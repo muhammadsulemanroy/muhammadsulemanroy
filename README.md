@@ -20,7 +20,7 @@ Hello there! 👋 I'm Muhammad Suleman, a passionate Mern Stack developer with a
 
 ## About Me
 
-I hold a degree in Computer Science and bring More Than 1 year of experience to the Mern Stack development field. My journey started with a curiosity-driven journey into coding, and it has led me to where I am today. My dedication to honing my skills and crafting exceptional user interfaces has guided my career.
+I hold a degree in Computer Science and bring More Than 2 year of experience to the Mern Stack development field. My journey started with a curiosity-driven journey into coding, and it has led me to where I am today. My dedication to honing my skills and crafting exceptional user interfaces has guided my career.
 
 
 ## My Skills
@@ -53,6 +53,10 @@ I specialize in:
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
     <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
 
 </div>
 
