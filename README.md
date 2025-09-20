@@ -62,7 +62,7 @@ I specialize in:
 
 My learning journey began at Skylarks It Solutions organization, where I immersed myself. Almost 2 Years of dedication, I gained foundational skills in MERN stack development. My time there further honed my skills and introduced me to the practical world of MERN stack development.
 
-Currently, I'm a MERN stack developer at Sylarks It Solutions. This role has allowed me to continue learning and applying my skills.
+Currently, I'm a MERN stack developer at Infini8ai. This role has allowed me to continue learning and applying my skills.
 
 
 
