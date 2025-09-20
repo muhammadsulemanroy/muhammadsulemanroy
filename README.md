@@ -28,7 +28,6 @@ I hold a degree in Computer Science and bring More Than 2 year of experience to 
 I specialize in:
 
 - HTML, CSS, and JavaScript for building engaging web interfaces.
-- DOM manipulation and creating interactive user experiences.
 - Utilizing the power of Tailwind CSS and Material UI for efficient styling.
 - Developing dynamic and responsive web applications using React.js.
 - State management to ensure seamless user interactions.
@@ -40,6 +39,11 @@ I specialize in:
 - Leveraging Next.js for server-side rendering, ensuring SEO optimization
 - Implemented Strong Security Features such as Jwt Tokens and also worked on Real time Updates Features
 - Implemented robust hashing and encryption techniques for secure password storage.
+- Database Management: Working with MongoDB (including advanced aggregation pipelines) and PostgreSQL, ensuring optimized queries and efficient schema design.
+- DevOps & Deployment: Deployment on AWS (EC2, S3) and Firebase Hosting   Basic CI/CD pipelines with GitHub Actions
+- Scalability & Optimization: Applying load balancing, caching (Redis), and asynchronous processing (queues like RabbitMQ) to improve backend performance.
+
+ 
 
 <br>
    <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
@@ -48,6 +52,7 @@ I specialize in:
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
      <img src="https://img.shields.io/badge/Material-UI-007BF7?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
@@ -56,6 +61,7 @@ I specialize in:
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
 
 
 </div>
